@@ -90,4 +90,4 @@ Plataforma de aprendizaje online con cursos, instructores, comunidad, suscripcio
 
 ## Contacto
 
-- ✉️ [samuelzuleta276@gmail.com](mailto:samuel.zuleta@utp.edu.co)
+- ✉️ [samuelzuleta276@gmail.com](mailto:samuelzuleta276@gmail.com)
