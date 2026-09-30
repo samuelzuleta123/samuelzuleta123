@@ -21,7 +21,7 @@
 
 ---
 
-## 👋 Sobre mí
+## Sobre mí
 
 Desarrollo aplicaciones web de punta a punta: frontend en React + TypeScript, backend sobre Supabase/PostgreSQL y Node.js, y despliegue con CI/CD en GitHub Actions, Vercel y Cloudflare.
 
@@ -29,12 +29,12 @@ Combino la ingeniería de software con experiencia profesional en **auditoría y
 
 ---
 
-## 🚀 Proyectos destacados
+## Proyectos destacados
 
 > Los repositorios son privados por acuerdos con clientes. Aquí resumo alcance, arquitectura y stack; el detalle técnico está disponible bajo solicitud.
 
-### 🏗️ Landing corporativa — Hispánica Constructora
-**🔗 En vivo:** [hispanicaconstructora.com](https://hispanicaconstructora.com)
+### Landing corporativa — Hispánica Constructora
+** En vivo:** [hispanicaconstructora.com](https://hispanicaconstructora.com)
 
 Sitio web oficial de una constructora, orientado a generación de leads y presencia digital.
 
@@ -48,7 +48,7 @@ Sitio web oficial de una constructora, orientado a generación de leads y presen
 
 ---
 
-### 📒 IA para Auditoría Contable y Revisoría Fiscal — Curso interactivo
+### IA para Auditoría Contable y Revisoría Fiscal — Curso interactivo
 **🔗 En vivo:** [auditoriacontable.vercel.app](https://auditoriacontable.vercel.app)
 
 Aplicación educativa que enseña a contadores, auditores y revisores fiscales colombianos a usar IA (Claude) en su trabajo, fundamentada en el DUR Tributario (Decreto 1625 de 2016) y el Decreto 2420 de 2015.
@@ -64,7 +64,7 @@ Aplicación educativa que enseña a contadores, auditores y revisores fiscales c
 
 ---
 
-### 🎓 Plataforma LMS / marketplace de cursos (proyecto freelance)
+### Plataforma LMS / marketplace de cursos (proyecto freelance)
 
 Plataforma de aprendizaje online con cursos, instructores, comunidad, suscripciones y pagos, desarrollada de extremo a extremo en 5 módulos.
 
@@ -79,7 +79,7 @@ Plataforma de aprendizaje online con cursos, instructores, comunidad, suscripcio
 
 ---
 
-## 🛠️ Cómo trabajo
+## Cómo trabajo
 
 - Historias de usuario en **Gherkin** y entregas por módulos con acta de aceptación
 - **CI/CD** con quality gates, migraciones versionadas y despliegues por entorno (preview / dev / prod)
@@ -88,6 +88,6 @@ Plataforma de aprendizaje online con cursos, instructores, comunidad, suscripcio
 
 ---
 
-## 📫 Contacto
+## Contacto
 
-- ✉️ [samuel.zuleta@utp.edu.co](mailto:samuel.zuleta@utp.edu.co)
+- ✉️ [samuelzuleta276@gmail.com](mailto:samuel.zuleta@utp.edu.co)
