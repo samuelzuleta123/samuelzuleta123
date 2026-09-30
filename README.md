@@ -49,7 +49,7 @@ Sitio web oficial de una constructora, orientado a generación de leads y presen
 ---
 
 ### 📒 IA para Auditoría Contable y Revisoría Fiscal — Curso interactivo
-**🔗 En vivo:** [auditoriacontable (Vercel)](https://auditoriacontable-ac5jsjbnl-samuel-zuleta-castanedas-projects.vercel.app)
+**🔗 En vivo:** [auditoriacontable.vercel.app](https://auditoriacontable.vercel.app)
 
 Aplicación educativa que enseña a contadores, auditores y revisores fiscales colombianos a usar IA (Claude) en su trabajo, fundamentada en el DUR Tributario (Decreto 1625 de 2016) y el Decreto 2420 de 2015.
 
