@@ -1,6 +1,6 @@
 <h1 align="center">Samuel Zuleta Castañeda</h1>
 <p align="center">
-  <b>Full Stack Developer</b> · Estudiante de Ingeniería de Sistemas (UTP)<br/>
+  <b>Full Stack Developer</b> · Estudiante de Ingeniería de Sistemas y Computación (UTP)<br/>
   📍 Pereira, Colombia
 </p>
 
